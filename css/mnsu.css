@@ -1,0 +1,19 @@
+body{
+    background-image: url(opt.jpg);
+    background-size: cover;
+}
+img{
+    margin-left: 727px;
+}
+.m{
+    margin-left: 1400px;
+    vertical-align: middle;
+}
+.hh{
+    color: blue;
+    font-size: 100px;
+}
+p{
+    color: white;
+    font-size: 100px;
+}
